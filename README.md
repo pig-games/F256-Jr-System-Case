@@ -8,3 +8,5 @@ This repository contains all the 3D files to print a custom case for the Foenix 
 And here's a sneak peak of an 'addon' that will be coming up very soon:
 
 ![DevStack](images/DeveloperStack.jpg)
+![DevStack](images/DevStackCombi.jpeg)
+![DevStack](images/DevCaseSolo.jpeg)
