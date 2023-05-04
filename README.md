@@ -4,11 +4,18 @@ This repository contains all the 3D files to print a custom case for the Foenix 
 ![Overview](images/Overview.jpeg)
 ![FrontRight](images/FrontRight.jpeg)
 ![RearRight](images/RearRight.jpeg)
+
+## Custom Dell 1707Fp
+
+Here are a bunch of pictures showing a custom paint job on a Dell 1707Fp monitor to fit the color scheme of the case.
+
 ![FullCustom1707Front](images/FullRetroCustom1707-front.jpeg)
 ![FullCustom1707Rear](images/FullRetroCustom1707-rear.jpeg)
 ![FullCustom1707Side](images/FullRetroCustom1707-side.jpeg)
 
-And here's a sneak peak of an 'addon' that will be coming up very soon:
+## Sister case for SBC based development machine (RPI4 in my case)
+
+This case is meant to be stacked below the F256Jr case combining into a physical development stack. They connect through a very short USB cable.
 
 ![DevStack](images/DeveloperStack.jpg)
 ![DevStack](images/DevStackCombi.jpeg)
